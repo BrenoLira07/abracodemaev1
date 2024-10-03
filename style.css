@@ -1,0 +1,32 @@
+body{
+    background: #f4eee0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    display: block; 
+    margin: 20px auto; 
+    width: 450px; 
+}
+p{
+    color: #ba8b3b;
+    text-align: center;
+    font-size: 30px;
+
+}
+.titulo {
+border: 1px solid #ba8b3b; 
+border-radius: 20px;
+padding: 10px;
+background-color: #f4eee0; 
+max-width: 300px;
+margin: 15px auto; 
+}
+a {
+text-decoration: none; 
+color: inherit; 
+}
+#copy{
+    color: #ba8b3b;
+    text-align: center;
+    font-size: 10px;
+}
